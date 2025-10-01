@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Shashank Gowda
 
-<!--
-**shashankgowdasm/shashankgowdasm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I’m an aspiring Software Engineer passionate about .NET, C#, and web development.  
+🌱 Currently exploring full stack development using ASP.NET Core and React.  
+🚀 I love learning and building real-world projects!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+- **Languages:** C#, JavaScript, SQL  
+- **Frameworks:** .NET Core, ASP.NET MVC  
+- **Tools:** Visual Studio, Git, GitHub  
+- **Database:** SQL Server  
+
+---
+
+### 🌟 Projects
+- 🔹 [Library Management System](#)  
+- 🔹 [Student Result Portal](#)  
+- 🔹 [Portfolio Website](#)  
+
+---
+
+📫 **Reach me at:**  
+- [LinkedIn](#)  
+- 📧 **Email:** varunshashank800@gmail.com  
